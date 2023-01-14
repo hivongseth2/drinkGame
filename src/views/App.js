@@ -1,4 +1,5 @@
 import logo from "./logo.svg";
+import GameMain from "./GameMain";
 import "./App.scss";
 
 function App() {
@@ -15,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          <GameMain />
         </a>
       </header>
     </div>
